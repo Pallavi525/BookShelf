@@ -18,7 +18,7 @@ Welcome to Bookshelf, a simple web application for organizing and managing your 
 3.MongoDB for the database.
 
 # Getting Started
-1.Clone this repository: git clone https://github.com/Pallavi525/bookshelf.git
+1.Clone this repository: git clone https://github.com/Pallavi525/BookShelf.git
 2.Install dependencies: npm install
 3.Configure your database settings in app.js.
 4.Change the directorie in bookshelf (frontend) by using this command - cd bookshelf
